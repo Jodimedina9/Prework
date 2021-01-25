@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Jodimedina9/Prework/blob/main/Prework.gif' title='TipCal Walkthrough' width='' alt='TipCal Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ScreentoGif](https://www.screentogif.com/).
 
 ## Notes
 
