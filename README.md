@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='TipCal Walkthrough' width='' alt='TipCal Walkthrough' />
+<img src='https://github.com/Jodimedina9/Prework/blob/main/Prework.gif' title='TipCal Walkthrough' width='' alt='TipCal Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
